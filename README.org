@@ -1,0 +1,9 @@
+* linear-programming-scip
+
+Implements a SCIP backend for linear-programming.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/kchanqvq/linear-programming-scip.git|
+| commit  | 0000000                                                    |
+| systems | linear-programming-scip                                   |
+|---------+------------------------------------------------------------|
